@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fce4ec;
+    color: #880e4f;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#countdown {
+    font-size: 2em;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #d81b60;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c2185b;
+}
+
+#reasons {
+    margin-top: 30px;
+}
+
+#reasonsList {
+    list-style: none;
+    padding: 0;
+}
+
+#reasonsList li {
+    margin: 10px 0;
+}
